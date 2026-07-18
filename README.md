@@ -4,6 +4,10 @@
 
 #### A simple downloader script for [yt-dlp ](https://github.com/yt-dlp/yt-dlp)
 
+![License](https://img.shields.io/badge/license-unlicense-Green) ![Version](https://img.shields.io/github/v/release/weiwei-hacking/FoxyMedia)
+ ![Downloads)](https://img.shields.io/github/downloads/weiwei-hacking/FoxyMedia/total)
+
+
 </div>
 
 ---

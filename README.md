@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥 FoxyMedia 🔥
+# 🦊 FoxyMedia 🦊
 
 #### A simple downloader script for [yt-dlp ](https://github.com/yt-dlp/yt-dlp)
 
